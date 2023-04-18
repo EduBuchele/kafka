@@ -2,12 +2,10 @@
 Estudando kafka via wsl2 no Windows:
 
 - Subir o docker no wsl:
-
-service docker start;
+   -  service docker start;
 
 - Subir kafka via docker-compose:
-
-docker-compose up -d
+   - docker-compose up -d
 
 - validar se aplicação subiu:
 docker ps;
